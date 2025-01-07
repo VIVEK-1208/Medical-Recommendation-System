@@ -69,9 +69,13 @@ This project was built by a team of five members, with contributions as follows:
 Follow these steps to run the project locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/medical-recommendation-system.git
-   cd medical-recommendation-system
+  ```bash
+  git clone https://github.com/VIVEK-1208/Medical-Recommendation-System.git
+  ```
+
+  ```bash
+  cd medical-recommendation-system
+  ```
 
 2. Install required dependencies:
 
