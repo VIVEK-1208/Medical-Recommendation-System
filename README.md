@@ -1,12 +1,12 @@
-# Medicine Recommendation System
+# Medical Recommendation System
 
-Welcome to the **Medicine Recommendation System**, a user-friendly platform designed to empower individuals to take charge of their health. Leveraging machine learning models, this system predicts potential illnesses based on symptoms and provides tailored recommendations for medications, dietary advice, and workout plans.
+Welcome to the **Medical Recommendation System**, a user-friendly platform designed to empower individuals to take charge of their health. Leveraging machine learning models, this system predicts potential illnesses based on symptoms and provides tailored recommendations for medications, dietary advice, and workout plans.
 
 ---
 
 ## Project Overview
 
-This project combines healthcare knowledge with cutting-edge technology to create a platform where health meets accessibility. The **Medicine Recommendation System** is designed to help users identify potential health concerns and gain insights into managing their well-being effectively.
+This project combines healthcare knowledge with cutting-edge technology to create a platform where health meets accessibility. The **Medical Recommendation System** is designed to help users identify potential health concerns and gain insights into managing their well-being effectively.
 
 ---
 
@@ -65,5 +65,5 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/medicine-recommendation-system.git
-   cd medicine-recommendation-system
+   git clone https://github.com/your-username/medical-recommendation-system.git
+   cd medical-recommendation-system
