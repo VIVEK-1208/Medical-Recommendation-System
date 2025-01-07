@@ -4,6 +4,11 @@ Welcome to the **Medical Recommendation System**, a user-friendly platform desig
 
 ---
 
+# Screenshots
+(Add images/screenshots of the website interface and application here)
+
+---
+
 ## Project Overview
 
 This project combines healthcare knowledge with cutting-edge technology to create a platform where health meets accessibility. The **Medical Recommendation System** is designed to help users identify potential health concerns and gain insights into managing their well-being effectively.
@@ -67,3 +72,21 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-username/medical-recommendation-system.git
    cd medical-recommendation-system
+
+2. Install required dependencies:
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+3. Run the Flask app:
+
+  ```bash
+  python app.py
+  ```
+
+4. Open your browser and navigate to:
+
+  ```arduino
+  http://localhost:5000
+  ```
