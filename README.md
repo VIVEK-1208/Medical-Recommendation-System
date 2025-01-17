@@ -79,9 +79,7 @@ Follow these steps to run the project locally:
 
 2. Install required dependencies:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+  Flask, Pandas, Numpy, ...
 
 3. Run the Flask app:
 
