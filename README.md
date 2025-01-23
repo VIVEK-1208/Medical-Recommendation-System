@@ -21,7 +21,7 @@ This project combines healthcare knowledge with cutting-edge technology to creat
 - **Binoy Krishna Debnath**
 - **Priyanshu Garg**
 - **Vivek Kumar Bharti** *(Website Development & Presentation)* 
-- **Abhay Mandal*
+- **Abhay Mandal**
 
 ---
 
